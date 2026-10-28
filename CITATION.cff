@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Please credit the project designer and cite relevant publications when reusing this work."
+title: "IoT Forensics Testbed for Digital Evidence Generation"
+authors:
+  - family-names: "Buja"
+    given-names: "Atdhe"
+version: "0.1.0"
+date-released: "2026-10-28"
+url: "https://www.atdheb.com/iot-forensics-testbed-for-digital-evidence-generation/"
+abstract: "A two-node Raspberry Pi IoT forensics teaching testbed with a partial public source release and selected evidence samples."
