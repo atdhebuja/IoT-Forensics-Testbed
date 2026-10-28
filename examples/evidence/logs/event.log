@@ -1,0 +1,47 @@
+# Node 2 Master Event Timeline
+# Format: timestamp | device_id | sensor_id | sensor_type | event_type | status/raw_value | note
+2026-06-04 10:03:21 | PI5-NODE2 | Sensor 2 | Light Sensor | LIGHT_READING | value=1502 | status=DARK | Ambient light level evidence
+2026-06-04 10:03:22 | PI5-NODE2 | Sensor 2 | Light Sensor | LIGHT_READING | value=1037 | status=BRIGHT | Ambient light level evidence
+2026-06-04 10:03:23 | PI5-NODE2 | Sensor 2 | Light Sensor | LIGHT_READING | value=1039 | status=BRIGHT | Ambient light level evidence
+2026-06-04 10:03:24 | PI5-NODE2 | Sensor 2 | Light Sensor | LIGHT_READING | value=1050 | status=BRIGHT | Ambient light level evidence
+2026-06-04 10:03:26 | PI5-NODE2 | Sensor 2 | Light Sensor | LIGHT_READING | value=1065 | status=BRIGHT | Ambient light level evidence
+2026-06-04 10:03:27 | PI5-NODE2 | Sensor 2 | Light Sensor | LIGHT_READING | value=1089 | status=BRIGHT | Ambient light level evidence
+2026-06-04 10:03:27 | PI5-NODE2 | Sensor 3 | PIR Motion Sensor | MOTION_DETECTED | raw_value=1 | Possible physical presence near IoT device
+2026-06-04 10:03:28 | PI5-NODE2 | Sensor 2 | Light Sensor | LIGHT_READING | value=1097 | status=BRIGHT | Ambient light level evidence
+2026-06-04 10:03:28 | PI5-NODE2 | Sensor 3 | PIR Motion Sensor | MOTION_CLEARED | raw_value=0 | No motion currently detected
+2026-06-04 10:03:29 | PI5-NODE2 | Sensor 2 | Light Sensor | LIGHT_READING | value=1086 | status=BRIGHT | Ambient light level evidence
+2026-06-04 10:03:30 | PI5-NODE2 | Sensor 2 | Light Sensor | LIGHT_READING | value=1096 | status=BRIGHT | Ambient light level evidence
+2026-06-04 10:03:31 | PI5-NODE2 | Sensor 2 | Light Sensor | LIGHT_READING | value=1105 | status=BRIGHT | Ambient light level evidence
+2026-06-04 10:03:32 | PI5-NODE2 | Sensor 2 | Light Sensor | LIGHT_READING | value=1768 | status=DARK | Ambient light level evidence
+2026-06-04 10:03:33 | PI5-NODE2 | Sensor 2 | Light Sensor | LIGHT_READING | value=1811 | status=DARK | Ambient light level evidence
+2026-06-04 10:03:33 | PI5-NODE2 | Sensor 3 | PIR Motion Sensor | MOTION_DETECTED | raw_value=1 | Possible physical presence near IoT device
+2026-06-04 10:03:34 | PI5-NODE2 | Sensor 2 | Light Sensor | LIGHT_READING | value=1877 | status=DARK | Ambient light level evidence
+2026-06-04 10:03:35 | PI5-NODE2 | Sensor 2 | Light Sensor | LIGHT_READING | value=1081 | status=BRIGHT | Ambient light level evidence
+2026-06-04 10:03:35 | PI5-NODE2 | Sensor 3 | PIR Motion Sensor | MOTION_CLEARED | raw_value=0 | No motion currently detected
+2026-06-04 10:03:37 | PI5-NODE2 | Sensor 2 | Light Sensor | LIGHT_READING | value=1083 | status=BRIGHT | Ambient light level evidence
+2026-06-04 10:03:38 | PI5-NODE2 | Sensor 2 | Light Sensor | LIGHT_READING | value=1078 | status=BRIGHT | Ambient light level evidence
+2026-06-04 10:03:39 | PI5-NODE2 | Sensor 2 | Light Sensor | LIGHT_READING | value=1067 | status=BRIGHT | Ambient light level evidence
+2026-06-04 10:03:39 | PI5-NODE2 | Sensor 3 | PIR Motion Sensor | MOTION_DETECTED | raw_value=1 | Possible physical presence near IoT device
+2026-06-04 10:03:40 | PI5-NODE2 | Sensor 2 | Light Sensor | LIGHT_READING | value=1075 | status=BRIGHT | Ambient light level evidence
+2026-06-04 10:03:40 | PI5-NODE2 | Sensor 3 | PIR Motion Sensor | MOTION_CLEARED | raw_value=0 | No motion currently detected
+2026-06-04 10:03:41 | PI5-NODE2 | Sensor 2 | Light Sensor | LIGHT_READING | value=1086 | status=BRIGHT | Ambient light level evidence
+2026-06-04 10:03:42 | PI5-NODE2 | Sensor 2 | Light Sensor | LIGHT_READING | value=1074 | status=BRIGHT | Ambient light level evidence
+2026-06-04 10:03:43 | PI5-NODE2 | Sensor 2 | Light Sensor | LIGHT_READING | value=1087 | status=BRIGHT | Ambient light level evidence
+2026-06-04 10:03:44 | PI5-NODE2 | Sensor 2 | Light Sensor | LIGHT_READING | value=1073 | status=BRIGHT | Ambient light level evidence
+2026-06-04 10:03:45 | PI5-NODE2 | Sensor 2 | Light Sensor | LIGHT_READING | value=1074 | status=BRIGHT | Ambient light level evidence
+2026-06-04 10:03:47 | PI5-NODE2 | Sensor 2 | Light Sensor | LIGHT_READING | value=1083 | status=BRIGHT | Ambient light level evidence
+2026-06-04 10:03:48 | PI5-NODE2 | Sensor 2 | Light Sensor | LIGHT_READING | value=1080 | status=BRIGHT | Ambient light level evidence
+2026-06-04 10:03:49 | PI5-NODE2 | Sensor 2 | Light Sensor | LIGHT_READING | value=1069 | status=BRIGHT | Ambient light level evidence
+2026-06-04 10:03:50 | PI5-NODE2 | Sensor 2 | Light Sensor | LIGHT_READING | value=1087 | status=BRIGHT | Ambient light level evidence
+2026-06-04 10:03:51 | PI5-NODE2 | Sensor 2 | Light Sensor | LIGHT_READING | value=1089 | status=BRIGHT | Ambient light level evidence
+2026-06-04 10:03:52 | PI5-NODE2 | Sensor 2 | Light Sensor | LIGHT_READING | value=1065 | status=BRIGHT | Ambient light level evidence
+2026-06-04 10:03:53 | PI5-NODE2 | Sensor 2 | Light Sensor | LIGHT_READING | value=1086 | status=BRIGHT | Ambient light level evidence
+2026-06-04 10:03:54 | PI5-NODE2 | Sensor 2 | Light Sensor | LIGHT_READING | value=1082 | status=BRIGHT | Ambient light level evidence
+2026-06-04 10:03:55 | PI5-NODE2 | Sensor 2 | Light Sensor | LIGHT_READING | value=1068 | status=BRIGHT | Ambient light level evidence
+2026-06-04 10:03:56 | PI5-NODE2 | Sensor 2 | Light Sensor | LIGHT_READING | value=1089 | status=BRIGHT | Ambient light level evidence
+2026-06-04 10:03:58 | PI5-NODE2 | Sensor 2 | Light Sensor | LIGHT_READING | value=1073 | status=BRIGHT | Ambient light level evidence
+2026-06-04 10:03:59 | PI5-NODE2 | Sensor 2 | Light Sensor | LIGHT_READING | value=1078 | status=BRIGHT | Ambient light level evidence
+2026-06-04 10:04:00 | PI5-NODE2 | Sensor 2 | Light Sensor | LIGHT_READING | value=1090 | status=BRIGHT | Ambient light level evidence
+2026-06-04 10:04:01 | PI5-NODE2 | Sensor 2 | Light Sensor | LIGHT_READING | value=1083 | status=BRIGHT | Ambient light level evidence
+2026-06-04 10:04:02 | PI5-NODE2 | Sensor 2 | Light Sensor | LIGHT_READING | value=1066 | status=BRIGHT | Ambient light level evidence
+2026-06-04 10:04:03 | PI5-NODE2 | Sensor 2 | Light Sensor | LIGHT_READING | value=1089 | status=BRIGHT | Ambient light level evidence

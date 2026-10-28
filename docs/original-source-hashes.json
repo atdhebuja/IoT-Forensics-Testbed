@@ -1,0 +1,7 @@
+{
+  "src/node2/original/README_complete_launcher.txt": "ba165c3a21d0a034d8d8264cbe5052758837fcad8c0a93365381d60e65993b79",
+  "src/node2/original/light_sensor_ssd.py": "42f20420897362c8e6fe7e04884845ed6f9e53f3b1503cd1537e960cc41032c1",
+  "src/node2/original/pir_raw4_ssd.py": "de91895032872464c6c4ad3fbd11cb62c0eec2de03fcacf5f4313c54b91b3f67",
+  "src/node2/original/start_node2_complete_monitoring.py": "34bfc2eed7009e67f764a7985499735137cad3d5374b878e5b0692f014a8a564",
+  "src/node2/original/tamper_button_ssd.py": "e5269dc040b6d02f2147406befc3cff6cf0179c7d8b3fc87e6b6577c5b63457d"
+}

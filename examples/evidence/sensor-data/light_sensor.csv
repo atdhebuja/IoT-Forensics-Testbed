@@ -1,0 +1,14 @@
+timestamp,device_id,sensor_id,sensor_type,gpio_pin,sensor_value,event_type,status,forensic_note
+2026-06-04 09:14:47,PI5-NODE2,Sensor 2,Light Sensor,BOARD7/GPIO4,1225,LIGHT_READING,DARK,Ambient light level evidence
+2026-06-04 09:14:49,PI5-NODE2,Sensor 2,Light Sensor,BOARD7/GPIO4,1250,LIGHT_READING,DARK,Ambient light level evidence
+2026-06-04 09:14:50,PI5-NODE2,Sensor 2,Light Sensor,BOARD7/GPIO4,1454,LIGHT_READING,DARK,Ambient light level evidence
+2026-06-04 09:14:51,PI5-NODE2,Sensor 2,Light Sensor,BOARD7/GPIO4,1434,LIGHT_READING,DARK,Ambient light level evidence
+2026-06-04 09:14:52,PI5-NODE2,Sensor 2,Light Sensor,BOARD7/GPIO4,1233,LIGHT_READING,DARK,Ambient light level evidence
+2026-06-04 09:14:53,PI5-NODE2,Sensor 2,Light Sensor,BOARD7/GPIO4,871,LIGHT_READING,BRIGHT,Ambient light level evidence
+2026-06-04 09:14:54,PI5-NODE2,Sensor 2,Light Sensor,BOARD7/GPIO4,864,LIGHT_READING,BRIGHT,Ambient light level evidence
+2026-06-04 09:14:55,PI5-NODE2,Sensor 2,Light Sensor,BOARD7/GPIO4,1080,LIGHT_READING,BRIGHT,Ambient light level evidence
+2026-06-04 09:14:56,PI5-NODE2,Sensor 2,Light Sensor,BOARD7/GPIO4,1047,LIGHT_READING,BRIGHT,Ambient light level evidence
+2026-06-04 09:14:57,PI5-NODE2,Sensor 2,Light Sensor,BOARD7/GPIO4,1010,LIGHT_READING,BRIGHT,Ambient light level evidence
+2026-06-04 09:14:59,PI5-NODE2,Sensor 2,Light Sensor,BOARD7/GPIO4,968,LIGHT_READING,BRIGHT,Ambient light level evidence
+2026-06-04 09:15:00,PI5-NODE2,Sensor 2,Light Sensor,BOARD7/GPIO4,869,LIGHT_READING,BRIGHT,Ambient light level evidence
+2026-06-04 09:15:01,PI5-NODE2,Sensor 2,Light Sensor,BOARD7/GPIO4,901,LIGHT_READING,BRIGHT,Ambient light level evidence

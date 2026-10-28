@@ -1,0 +1,9 @@
+flowchart TD
+  R["Laboratory router"]
+  R ---|Ethernet| N1["Node 1 Raspberry Pi 3 and DHT11"]
+  R ---|Wi-Fi| N2["Node 2 Raspberry Pi 5 and physical sensors"]
+  N1 --> DB["MySQL environmental history"]
+  N2 --> SSD["External SSD CSVs and Node 2 event log"]
+  DB -.->|Planned read-only adapter| API["Planned evidence API"]
+  SSD -.->|Planned read-only adapter| API
+  API -.-> UI["Planned browser dashboard"]

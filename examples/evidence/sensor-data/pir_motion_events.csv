@@ -1,0 +1,6 @@
+timestamp,sensor_id,sensor_type,gpio_pin,event_type,raw_value,forensic_note
+2026-06-04 09:14:27,Sensor 3,PIR Motion Sensor,GPIO23,MOTION_CLEARED,0,No motion currently detected
+2026-06-04 09:14:29,Sensor 3,PIR Motion Sensor,GPIO23,MOTION_DETECTED,1,Possible physical presence near IoT device
+2026-06-04 09:14:31,Sensor 3,PIR Motion Sensor,GPIO23,MOTION_CLEARED,0,No motion currently detected
+2026-06-04 09:14:36,Sensor 3,PIR Motion Sensor,GPIO23,MOTION_DETECTED,1,Possible physical presence near IoT device
+2026-06-04 09:14:37,Sensor 3,PIR Motion Sensor,GPIO23,MOTION_CLEARED,0,No motion currently detected

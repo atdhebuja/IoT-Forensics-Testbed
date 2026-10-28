@@ -1,0 +1,30 @@
+{
+  "scope": "Public evidence samples only; USB CSV has redacted identifiers. Original acquisition hashes are not claimed.",
+  "files": [
+    {
+      "path": "logs/event.log",
+      "sha256": "3e047cc5d218cf13f6572c69559b9b31ef0d18f24565fa1e7f0505baebfe6203",
+      "bytes": 6141
+    },
+    {
+      "path": "sensor-data/light_sensor.csv",
+      "sha256": "ba8d5c6b1d016f7b6e2943d3153850f647ae8fecfe2517af7cfde4656c2778dc",
+      "bytes": 1655
+    },
+    {
+      "path": "sensor-data/pir_motion_events.csv",
+      "sha256": "e991ce4364c048f2fb0ebf04b61054cb338b4345a6bab1935fdcc324af262cce",
+      "bytes": 612
+    },
+    {
+      "path": "sensor-data/tamper_button_events.csv",
+      "sha256": "72a779339fe0e8305049a9659142121cdb2512b0a18b4f929b6848928884ff27",
+      "bytes": 376
+    },
+    {
+      "path": "usb-events/usb_event_log.csv",
+      "sha256": "b63b575f8f2d9b4124435e6b8197ca483eef70ee68f6be2aa7e23b20f89e7c46",
+      "bytes": 687
+    }
+  ]
+}

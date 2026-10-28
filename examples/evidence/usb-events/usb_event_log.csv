@@ -1,0 +1,5 @@
+timestamp,device_id,event_type,block_device,mount_point,filesystem,model,serial,forensic_note
+2026-06-04 10:25:35,PI5-NODE2,USB_INSERTED,/dev/sdc1,/media/pi/PUBLIC_USB,exfat,UDisk,REDACTED_DEMO_SERIAL,USB storage device detected by Linux block subsystem
+2026-06-04 10:25:35,PI5-NODE2,USB_INSERTED,/dev/sdc,,,UDisk,REDACTED_DEMO_SERIAL,USB storage device detected by Linux block subsystem
+2026-06-04 10:25:43,PI5-NODE2,USB_REMOVED,/dev/sdc1,/media/pi/PUBLIC_USB,exfat,UDisk,REDACTED_DEMO_SERIAL,USB storage device removed from Linux block subsystem
+2026-06-04 10:25:43,PI5-NODE2,USB_REMOVED,/dev/sdc,,,UDisk,REDACTED_DEMO_SERIAL,USB storage device removed from Linux block subsystem

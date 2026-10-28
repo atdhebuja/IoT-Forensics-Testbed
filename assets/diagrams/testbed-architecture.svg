@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" width="1200" height="1080" viewBox="0 0 1200 1080">
+<ns0:defs><ns0:marker id="arrow" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto"><ns0:path d="M0,0 L10,4 L0,8" fill="#36566b" /></ns0:marker></ns0:defs>
+<ns0:rect width="1200" height="1080" fill="white" />
+<ns0:text x="600" y="36" font-family="Arial" font-size="25" font-weight="bold" text-anchor="middle" fill="#143a50">IoT Forensics Testbed</ns0:text>
+<ns0:text x="600" y="63" font-family="Arial" font-size="16" text-anchor="middle" fill="#36566b">Dr. Atdhe Buja | DGFR 471 | Current acquisition and planned dashboard</ns0:text>
+<ns0:path d="M600.0,170 L600.0,202.5 L305.0,202.5 L305.0,232" fill="none" stroke="#36566b" stroke-width="2" marker-end="url(#arrow)" />
+<ns0:text x="450" y="192" font-family="Arial" font-size="14" text-anchor="middle" fill="#36566b">Ethernet</ns0:text>
+<ns0:path d="M600.0,170 L600.0,202.5 L895.0,202.5 L895.0,232" fill="none" stroke="#36566b" stroke-width="2" marker-end="url(#arrow)" />
+<ns0:text x="750" y="192" font-family="Arial" font-size="14" text-anchor="middle" fill="#36566b">Wi-Fi</ns0:text>
+<ns0:path d="M305.0,385 L305.0,422.5 L305.0,422.5 L305.0,457" fill="none" stroke="#36566b" stroke-width="2" marker-end="url(#arrow)" />
+<ns0:text x="319.0" y="409" font-family="Arial" font-size="14" text-anchor="start" fill="#36566b">Acquisition</ns0:text>
+<ns0:path d="M895.0,385 L895.0,422.5 L895.0,422.5 L895.0,457" fill="none" stroke="#36566b" stroke-width="2" marker-end="url(#arrow)" />
+<ns0:text x="881.0" y="409" font-family="Arial" font-size="14" text-anchor="end" fill="#36566b">Acquisition</ns0:text>
+<ns0:path d="M305.0,590 L305.0,640.0 L600.0,640.0 L600.0,687" fill="none" stroke="#36566b" stroke-width="2" stroke-dasharray="8 5" marker-end="url(#arrow)" />
+<ns0:text x="319.0" y="614" font-family="Arial" font-size="14" text-anchor="start" fill="#36566b">Read-only adapter</ns0:text>
+<ns0:path d="M895.0,590 L895.0,640.0 L600.0,640.0 L600.0,687" fill="none" stroke="#36566b" stroke-width="2" stroke-dasharray="8 5" marker-end="url(#arrow)" />
+<ns0:text x="881.0" y="614" font-family="Arial" font-size="14" text-anchor="end" fill="#36566b">Read-only adapter</ns0:text>
+<ns0:path d="M600.0,795 L600.0,835.0 L600.0,835.0 L600.0,872" fill="none" stroke="#36566b" stroke-width="2" stroke-dasharray="8 5" marker-end="url(#arrow)" />
+<ns0:text x="614.0" y="819" font-family="Arial" font-size="14" text-anchor="start" fill="#36566b">HTTP on lab host</ns0:text>
+<ns0:rect x="410" y="85" width="380" height="85" rx="10" fill="#e7eff7" stroke="#557789" stroke-width="1.5" />
+<ns0:text x="600.0" y="115" font-family="Arial" font-size="21" font-weight="bold" text-anchor="middle" fill="#143a50">Laboratory router</ns0:text>
+<ns0:text x="600.0" y="142" font-family="Arial" font-size="16" text-anchor="middle" fill="#243e4c">Shared lab network</ns0:text>
+<ns0:text x="600.0" y="166" font-family="Arial" font-size="16" text-anchor="middle" fill="#243e4c">Node 1 Ethernet / Node 2 Wi-Fi</ns0:text>
+<ns0:rect x="55" y="235" width="500" height="150" rx="10" fill="#e8f4ed" stroke="#557789" stroke-width="1.5" />
+<ns0:text x="305.0" y="265" font-family="Arial" font-size="21" font-weight="bold" text-anchor="middle" fill="#143a50">Node 1 Environmental</ns0:text>
+<ns0:text x="305.0" y="292" font-family="Arial" font-size="16" text-anchor="middle" fill="#243e4c">Raspberry Pi 3 + DHT11</ns0:text>
+<ns0:text x="305.0" y="316" font-family="Arial" font-size="16" text-anchor="middle" fill="#243e4c">Temperature and humidity readings</ns0:text>
+<ns0:text x="305.0" y="340" font-family="Arial" font-size="16" text-anchor="middle" fill="#243e4c">Acquisition source pending</ns0:text>
+<ns0:rect x="645" y="235" width="500" height="150" rx="10" fill="#e8f4ed" stroke="#557789" stroke-width="1.5" />
+<ns0:text x="895.0" y="265" font-family="Arial" font-size="21" font-weight="bold" text-anchor="middle" fill="#143a50">Node 2 Physical security</ns0:text>
+<ns0:text x="895.0" y="292" font-family="Arial" font-size="16" text-anchor="middle" fill="#243e4c">Raspberry Pi 5 + light / PIR / tamper</ns0:text>
+<ns0:text x="895.0" y="316" font-family="Arial" font-size="16" text-anchor="middle" fill="#243e4c">Linux USB / block-device observations</ns0:text>
+<ns0:text x="895.0" y="340" font-family="Arial" font-size="16" text-anchor="middle" fill="#243e4c">3 sensor scripts + original launcher included</ns0:text>
+<ns0:rect x="55" y="460" width="500" height="130" rx="10" fill="#f1f5f9" stroke="#557789" stroke-width="1.5" />
+<ns0:text x="305.0" y="490" font-family="Arial" font-size="21" font-weight="bold" text-anchor="middle" fill="#143a50">MySQL environmental history</ns0:text>
+<ns0:text x="305.0" y="517" font-family="Arial" font-size="16" text-anchor="middle" fill="#243e4c">Timestamps + temperature + humidity</ns0:text>
+<ns0:text x="305.0" y="541" font-family="Arial" font-size="16" text-anchor="middle" fill="#243e4c">Database host / schema to confirm</ns0:text>
+<ns0:text x="305.0" y="565" font-family="Arial" font-size="16" text-anchor="middle" fill="#243e4c">No Node 1 sample supplied</ns0:text>
+<ns0:rect x="645" y="460" width="500" height="130" rx="10" fill="#f1f5f9" stroke="#557789" stroke-width="1.5" />
+<ns0:text x="895.0" y="490" font-family="Arial" font-size="21" font-weight="bold" text-anchor="middle" fill="#143a50">External SSD evidence</ns0:text>
+<ns0:text x="895.0" y="517" font-family="Arial" font-size="16" text-anchor="middle" fill="#243e4c">Sensor CSVs + Node 2 event.log + USB CSV</ns0:text>
+<ns0:text x="895.0" y="541" font-family="Arial" font-size="16" text-anchor="middle" fill="#243e4c">Timeline generator and USB monitor source pending</ns0:text>
+<ns0:text x="895.0" y="565" font-family="Arial" font-size="16" text-anchor="middle" fill="#243e4c">Samples are separate capture windows</ns0:text>
+<ns0:rect x="320" y="690" width="560" height="105" rx="10" fill="#fff3da" stroke="#557789" stroke-width="1.5" stroke-dasharray="8 5" />
+<ns0:text x="600.0" y="720" font-family="Arial" font-size="21" font-weight="bold" text-anchor="middle" fill="#143a50">PLANNED Read-only evidence API</ns0:text>
+<ns0:text x="600.0" y="747" font-family="Arial" font-size="16" text-anchor="middle" fill="#243e4c">Node 1 MySQL adapter + Node 2 file adapter</ns0:text>
+<ns0:text x="600.0" y="771" font-family="Arial" font-size="16" text-anchor="middle" fill="#243e4c">Normalize time references and preserve provenance</ns0:text>
+<ns0:rect x="320" y="875" width="560" height="105" rx="10" fill="#fff3da" stroke="#557789" stroke-width="1.5" stroke-dasharray="8 5" />
+<ns0:text x="600.0" y="905" font-family="Arial" font-size="21" font-weight="bold" text-anchor="middle" fill="#143a50">PLANNED Browser dashboard</ns0:text>
+<ns0:text x="600.0" y="932" font-family="Arial" font-size="16" text-anchor="middle" fill="#243e4c">Environmental trends + physical / USB events</ns0:text>
+<ns0:text x="600.0" y="956" font-family="Arial" font-size="16" text-anchor="middle" fill="#243e4c">Combined timeline + source evidence references</ns0:text>
+<ns0:text x="600" y="1025" font-family="Arial" font-size="16" text-anchor="middle" fill="#36566b">Solid = described laboratory acquisition | Dashed = planned integration</ns0:text>
+<ns0:text x="600" y="1050" font-family="Arial" font-size="15" text-anchor="middle" fill="#36566b">A Node 2 event log is not yet a unified cross-node timeline.</ns0:text>
+</ns0:svg>
