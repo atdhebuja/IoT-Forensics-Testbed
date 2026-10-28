@@ -45,7 +45,6 @@ The current owner-provided Node 1 specification is **DHT11**. Earlier descriptio
 - [Student scenarios](scenarios/README.md)
 - [Dashboard plan](docs/dashboard-plan.md)
 - [Remaining work](docs/roadmap.md)
-- [Repository upload and profile text](docs/publish-guide.md)
 
 ## Explore the evidence without Raspberry Pi hardware
 
